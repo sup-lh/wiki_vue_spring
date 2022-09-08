@@ -1,0 +1,26 @@
+
+
+
+LLLLLLLLLLL                    iiii                                                                                            iiii
+L:::::::::L                   i::::i                                                                                          i::::i
+L:::::::::L                    iiii                                                                                            iiii
+LL:::::::LL
+  L:::::L                    iiiiiii      nnnn  nnnnnnnn                                       yyyyyyy           yyyyyyy     iiiiiii
+  L:::::L                    i:::::i      n:::nn::::::::nn                                      y:::::y         y:::::y      i:::::i
+  L:::::L                     i::::i      n::::::::::::::nn                                      y:::::y       y:::::y        i::::i
+  L:::::L                     i::::i      nn:::::::::::::::n                                      y:::::y     y:::::y         i::::i
+  L:::::L                     i::::i        n:::::nnnn:::::n                                       y:::::y   y:::::y          i::::i
+  L:::::L                     i::::i        n::::n    n::::n                                        y:::::y y:::::y           i::::i
+  L:::::L                     i::::i        n::::n    n::::n                                         y:::::y:::::y            i::::i
+  L:::::L         LLLLLL      i::::i        n::::n    n::::n                                          y:::::::::y             i::::i
+LL:::::::LLLLLLLLL:::::L     i::::::i       n::::n    n::::n                                           y:::::::y             i::::::i
+L::::::::::::::::::::::L     i::::::i       n::::n    n::::n                                            y:::::y              i::::::i
+L::::::::::::::::::::::L     i::::::i       n::::n    n::::n                                           y:::::y               i::::::i
+LLLLLLLLLLLLLLLLLLLLLLLL     iiiiiiii       nnnnnn    nnnnnn                                          y:::::y                iiiiiiii
+                                                                                                     y:::::y
+                                                                                                    y:::::y
+                                                                                                   y:::::y
+                                                                                                  y:::::y
+                                                                                                 yyyyyyy
+
+
