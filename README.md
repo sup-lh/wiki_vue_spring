@@ -1,1 +1,2 @@
-# wiki_vue_spring
+# wiki图书管理系统,前端vue3,后端springboot
+- 该项目是本人第一次前后端一块开发的项目,深受该项目的影响
